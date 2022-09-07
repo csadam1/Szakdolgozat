@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chess</string>
+
+    <string-array name="leaderboard_options">
+        <item>Add friend</item>
+        <item>Play together</item>
+    </string-array>
+
+    <string-array name="friends_options">
+        <item>Play together</item>
+        <item>Remove friend</item>
+    </string-array>
+
+</resources>
